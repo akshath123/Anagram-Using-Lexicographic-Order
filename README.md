@@ -9,6 +9,6 @@ This project was built in 3rd semester as a project for the subject Discreate Ma
 ## How was it done?
 I labeled each word with a number from 1 to N ( where N represents the length of the word ). Next using Lexicographic ordering I found the next highest order permutation using indexing and swaped the letters accordingly giving a new word. With the new word I checked the whether the word is meaningful or not using a database. If it is a meaningful word I am presenting it to the user. 
 
-## To see the demo of it click here 
+## To see the demo of it click [here](https://youtu.be/oV-7TVTpEhY) 
 
 ### Note: Make sure you add the mysql-connector in the project when using the application
